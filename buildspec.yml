@@ -15,4 +15,4 @@ artifcats:
     - build/libs/*.jar
     - scripts/ *.sh
     - appspec.yml
-  discard-paths: no
+  discard-paths: yes
